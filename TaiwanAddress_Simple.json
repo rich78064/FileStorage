@@ -1,7 +1,7 @@
 [
     {
-        "city": "臺北市",
-        "district": [
+        "City": "臺北市",
+        "Districts": [
             {
                 "district": "中正區",
                 "zipCode": "100"
@@ -53,8 +53,8 @@
         ]
     },
     {
-        "city": "基隆市",
-        "district": [
+        "City": "基隆市",
+        "Districts": [
             {
                 "district": "仁愛區",
                 "zipCode": "200"
@@ -86,8 +86,8 @@
         ]
     },
     {
-        "city": "新北市",
-        "district": [
+        "City": "新北市",
+        "Districts": [
             {
                 "district": "萬里區",
                 "zipCode": "207"
@@ -207,8 +207,8 @@
         ]
     },
     {
-        "city": "連江縣",
-        "district": [
+        "City": "連江縣",
+        "Districts": [
             {
                 "district": "南竿鄉",
                 "zipCode": "209"
@@ -228,8 +228,8 @@
         ]
     },
     {
-        "city": "宜蘭縣",
-        "district": [
+        "City": "宜蘭縣",
+        "Districts": [
             {
                 "district": "宜蘭市",
                 "zipCode": "260"
@@ -285,8 +285,8 @@
         ]
     },
     {
-        "city": "釣魚臺",
-        "district": [
+        "City": "釣魚臺",
+        "Districts": [
             {
                 "district": "釣魚臺",
                 "zipCode": "290"
@@ -294,8 +294,8 @@
         ]
     },
     {
-        "city": "新竹市",
-        "district": [
+        "City": "新竹市",
+        "Districts": [
             {
                 "district": "東區",
                 "zipCode": "300"
@@ -311,8 +311,8 @@
         ]
     },
     {
-        "city": "新竹縣",
-        "district": [
+        "City": "新竹縣",
+        "Districts": [
             {
                 "district": "寶山鄉",
                 "zipCode": "308"
@@ -368,8 +368,8 @@
         ]
     },
     {
-        "city": "桃園市",
-        "district": [
+        "City": "桃園市",
+        "Districts": [
             {
                 "district": "中壢區",
                 "zipCode": "320"
@@ -425,8 +425,8 @@
         ]
     },
     {
-        "city": "苗栗縣",
-        "district": [
+        "City": "苗栗縣",
+        "Districts": [
             {
                 "district": "竹南鎮",
                 "zipCode": "350"
@@ -502,8 +502,8 @@
         ]
     },
     {
-        "city": "臺中市",
-        "district": [
+        "City": "臺中市",
+        "Districts": [
             {
                 "district": "中區",
                 "zipCode": "400"
@@ -623,8 +623,8 @@
         ]
     },
     {
-        "city": "彰化縣",
-        "district": [
+        "City": "彰化縣",
+        "Districts": [
             {
                 "district": "彰化市",
                 "zipCode": "500"
@@ -732,8 +732,8 @@
         ]
     },
     {
-        "city": "南投縣",
-        "district": [
+        "City": "南投縣",
+        "Districts": [
             {
                 "district": "南投市",
                 "zipCode": "540"
@@ -789,8 +789,8 @@
         ]
     },
     {
-        "city": "嘉義市",
-        "district": [
+        "City": "嘉義市",
+        "Districts": [
             {
                 "district": "西區",
                 "zipCode": "600"
@@ -802,8 +802,8 @@
         ]
     },
     {
-        "city": "嘉義縣",
-        "district": [
+        "City": "嘉義縣",
+        "Districts": [
             {
                 "district": "番路鄉",
                 "zipCode": "602"
@@ -879,8 +879,8 @@
         ]
     },
     {
-        "city": "雲林縣",
-        "district": [
+        "City": "雲林縣",
+        "Districts": [
             {
                 "district": "斗南鎮",
                 "zipCode": "630"
@@ -964,8 +964,8 @@
         ]
     },
     {
-        "city": "臺南市",
-        "district": [
+        "City": "臺南市",
+        "Districts": [
             {
                 "district": "中西區",
                 "zipCode": "700"
@@ -1117,8 +1117,8 @@
         ]
     },
     {
-        "city": "高雄市",
-        "district": [
+        "City": "高雄市",
+        "Districts": [
             {
                 "district": "新興區",
                 "zipCode": "800"
@@ -1282,8 +1282,8 @@
         ]
     },
     {
-        "city": "南海島",
-        "district": [
+        "City": "南海島",
+        "Districts": [
             {
                 "district": "東沙群島",
                 "zipCode": "817"
@@ -1295,8 +1295,8 @@
         ]
     },
     {
-        "city": "澎湖縣",
-        "district": [
+        "City": "澎湖縣",
+        "Districts": [
             {
                 "district": "馬公市",
                 "zipCode": "880"
@@ -1324,8 +1324,8 @@
         ]
     },
     {
-        "city": "金門縣",
-        "district": [
+        "City": "金門縣",
+        "Districts": [
             {
                 "district": "金沙鎮",
                 "zipCode": "890"
@@ -1353,8 +1353,8 @@
         ]
     },
     {
-        "city": "屏東縣",
-        "district": [
+        "City": "屏東縣",
+        "Districts": [
             {
                 "district": "屏東市",
                 "zipCode": "900"
@@ -1490,8 +1490,8 @@
         ]
     },
     {
-        "city": "臺東縣",
-        "district": [
+        "City": "臺東縣",
+        "Districts": [
             {
                 "district": "臺東市",
                 "zipCode": "950"
@@ -1559,8 +1559,8 @@
         ]
     },
     {
-        "city": "花蓮縣",
-        "district": [
+        "City": "花蓮縣",
+        "Districts": [
             {
                 "district": "花蓮市",
                 "zipCode": "970"

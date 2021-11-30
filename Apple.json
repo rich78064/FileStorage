@@ -1,4 +1,5 @@
-
+[
+    {
     "iMac":[],
     "iPadAir": [
         { "color": "太空灰色", "storage": "64GB", "price": 18900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650642000" },
@@ -49,5 +50,6 @@
             { name: "iPhone 12", storage: "128GB", "price": 24500 },
             { name: "iPhone 12", storage: "256GB", "price": 28000 }
         ]
+      }
     }
-
+]

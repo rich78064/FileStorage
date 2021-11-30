@@ -1,0 +1,26 @@
+{
+    "iMac":[],
+    "iPadAir":[
+        { "color": "太空灰色", "storage": "64GB", "price": 18900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650642000" },
+        { "color": "銀色", "storage": "64GB", "price": 18900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-silver-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650645000" },
+        { "color": "綠色", "storage": "64GB", "price": 18900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-green-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "玫瑰金色", "storage": "64GB", "price": 18900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-gold-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "天藍色", "storage": "64GB", "price": 18900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "太空灰色", "storage": "256GB", "price": 23900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650642000" },
+        { "color": "銀色", "storage": "256GB", "price": 23900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-silver-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650645000" },
+        { "color": "綠色", "storage": "256GB", "price": 23900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-green-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "玫瑰金色", "storage": "256GB", "price": 23900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-gold-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "天藍色", "storage": "256GB", "price": 23900, "network": "Wi-Fi", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "太空灰色", "storage": "64GB", "price": 23200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650642000" },
+        { "color": "銀色", "storage": "64GB", "price": 23200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-silver-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650645000" },
+        { "color": "綠色", "storage": "64GB", "price": 23200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-green-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "玫瑰金色", "storage": "64GB", "price": 23200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-gold-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "天藍色", "storage": "64GB", "price": 23200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "太空灰色", "storage": "256GB", "price": 28200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650642000" },
+        { "color": "銀色", "storage": "256GB", "price": 28200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-silver-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650645000" },
+        { "color": "綠色", "storage": "256GB", "price": 28200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-green-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "玫瑰金色", "storage": "256GB", "price": 28200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-gold-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
+        { "color": "天藍色", "storage": "256GB", "price": 28200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" }
+    ],
+    "iPhone12":[]
+}

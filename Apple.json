@@ -22,7 +22,7 @@
         { "color": "玫瑰金色", "storage": "256GB", "price": 28200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-gold-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" },
         { "color": "天藍色", "storage": "256GB", "price": 28200, "network": "Cellular", "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000" }
     ]
-    "iPhone12"={
+    "iPhone12":[
         size:[
             { name: "iPhone 12 mini", imgUrl: "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-mini-select-2021?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617130318000" },
             { name: "iPhone 12", imgUrl: "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-select-2021?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617130318000" }
@@ -49,5 +49,5 @@
             { name: "iPhone 12", storage: "128GB", "price": 24500 },
             { name: "iPhone 12", storage: "256GB", "price": 28000 }
         ]
-    }
+    ]
 }

@@ -21,7 +21,7 @@
             {
                 "name": "iPhone 12 mini",
                 "price": "NT$19,900 起",
-                "imgurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-mini-select-2021?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617130318000",
+                "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-mini-select-2021?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617130318000",
                 "price128G": "NT$19,900",
                 "price256G": "NT$21,500",
                 "price512G": "NT$25,000" 
@@ -29,7 +29,7 @@
             {
                 "name": "iPhone 12",
                 "price": "NT$22,900 起",
-                "imgurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-select-2021?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617130318000",
+                "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-select-2021?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617130318000",
                 "price128G": "NT$22,900",
                 "price256G": "NT$24,500",
                 "price512G": "NT$28,000" 

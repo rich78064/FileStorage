@@ -4,16 +4,16 @@
             {
                 "GPU": "7核心",
                 "price": "NT$30,900 起",
-                "priceAdd": "6,000",
-                "priceAdd": "12,000",
-                "priceAdd": "24,000"
+                "priceAdd1": "NT$6,000",
+                "priceAdd2": "NT$12,000",
+                "priceAdd3": "NT$24,000"
             },
             {
                 "GPU": "8核心",
                 "price": "NT$38,900 起",
-                "priceAdd": "6,000",
-                "priceAdd": "12,000",
-                "priceAdd": "24,000"
+                "priceAdd1": "NT$6,000",
+                "priceAdd2": "NT$12,000",
+                "priceAdd3": "NT$24,000"
             }
         ],
         "iPadAir": [

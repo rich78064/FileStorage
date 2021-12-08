@@ -3,7 +3,7 @@
         "iMac": [
             {
                 "GPU": "7核心",
-                "price7GPU": "NT$30,900 起",
+                "priceGPU": "NT$30,900 起",
                 "price256G": "NT$30,900",
                 "price512G": "NT$36,900",
                 "price1TB": "NT$42,900",
@@ -11,7 +11,7 @@
             },
             {
                 "GPU": "8核心",
-                "price8GPU": "NT$38,900 起",
+                "priceGPU": "NT$38,900 起",
                 "price256G": "NT$38,900 ",
                 "price512G": "NT$44,900",
                 "price1TB": "NT$50,900",

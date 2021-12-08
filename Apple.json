@@ -4,16 +4,16 @@
             {
                 "GPU": "7核心",
                 "price": "NT$30,900 起",
-                "price512G": "+NT$6,000",
-                "price1TB": "+NT$12,000",
-                "price2TB": "+NT$24,000"
+                "priceAdd": "6,000",
+                "priceAdd": "12,000",
+                "priceAdd": "24,000"
             },
             {
                 "GPU": "8核心",
                 "price": "NT$38,900 起",
-                "price512G": "+NT$6,000",
-                "price1TB": "+NT$12,000",
-                "price2TB": "+NT$24,000"
+                "priceAdd": "6,000",
+                "priceAdd": "12,000",
+                "priceAdd": "24,000"
             }
         ],
         "iPadAir": [

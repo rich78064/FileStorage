@@ -53,15 +53,15 @@
         "iMac": [
             {
                 "color": "太空灰色",
-                "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-space-gray-config-201810?wid=539&hei=312&fmt=jpeg&qlt=95&.v=1633033424000"
+                "grayUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-space-gray-config-201810?wid=539&hei=312&fmt=jpeg&qlt=95&.v=1633033424000"
             },
             {
                 "color": "金色",
-                "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-gold-select-201810?wid=539&hei=312&fmt=jpeg&qlt=95&.v=1633027804000"
+                "goldUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-gold-select-201810?wid=539&hei=312&fmt=jpeg&qlt=95&.v=1633027804000"
             },
             {
                 "color": "銀色",
-                "imgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-silver-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1633027804000"
+                "silverUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-silver-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1633027804000"
             }
         ],
         "iPadAir": [
